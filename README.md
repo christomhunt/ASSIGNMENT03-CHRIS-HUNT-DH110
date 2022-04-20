@@ -58,27 +58,27 @@ I collected data via a video recording on Zoom where the participant shared thei
 
 ### Insights from the interview
 
-A review from a credible source would be helpful for possible customers/users to gauge if they should even spend their time and effort to learn whatever they want to learn the way the website they are looking at wants to teach them.
+#### A review from a credible source would be helpful for possible customers/users to gauge if they should even spend their time and effort to learn whatever they want to learn the way the website they are looking at wants to teach them.
 
-  “But if they had some kind of social validation with some bigger music personality that actually gave their stamp of approval that would make me maybe stay on this website a little bit longer not saying I would be convinced, or that I'm easily impressionable.” Nikki (20:25)
+>“But if they had some kind of social validation with some bigger music personality that actually gave their stamp of approval that would make me maybe stay on this website a little bit longer not saying I would be convinced, or that I'm easily impressionable.” Nikki (20:25)
   
-Having a system that uses existing accounts instead of having to sign up and create a completely new user ID for example logging in via Facebook, Google, Apple ID would enable for a quicker and easier process for possible customers/users.
+#### Having a system that uses existing accounts instead of having to sign up and create a completely new user ID for example logging in via Facebook, Google, Apple ID would enable for a quicker and easier process for possible customers/users.
 
-  “Why would I prefer on Zoom, because in today's day and age, we already have so many things that we're signed up to man. So many things that it's much easier if I could just sign up. Or or I could just use something I already have zoom or login with with Google, I guess to wyzent with their API, I don't know something like that.” Nikki (22:42)
+>“Why would I prefer on Zoom, because in today's day and age, we already have so many things that we're signed up to man. So many things that it's much easier if I could just sign up. Or or I could just use something I already have zoom or login with with Google, I guess to wyzent with their API, I don't know something like that.” Nikki (22:42)
   
-Explaining terminology/words that people may not know what they are for example Tenuto is musictheory.net exercises and tools in an App.
+#### Explaining terminology/words that people may not know what they are for example Tenuto is musictheory.net exercises and tools in an App.
 
-  “I don't know what tenuto does the app I don't know if it it shows me chords from the looks of it. Uhh or if it records or if it's a notation software, it doesn't tell me much, which is kind of a turn off. It's a turn off that I don't know” Nikki (33:01)
+>“I don't know what tenuto does the app I don't know if it it shows me chords from the looks of it. Uhh or if it records or if it's a notation software, it doesn't tell me much, which is kind of a turn off. It's a turn off that I don't know” Nikki (33:01)
   
-Offering support for different browsers like Brave which has 50 million monthly users and 15 million daily users as of Dec 2021 according to their website.
+#### Offering support for different browsers like Brave which has 50 million monthly users and 15 million daily users as of Dec 2021 according to their website.
 
-  “the fact that they don't support brave, for example, and here is the confirmation. Our list of supported web browsers for the 2021 2022 school year, includes what I was saying. Uhh uhh and it doesn't include brave, of course, it's not one of the biggest ones.” Nikki (35:55)
+>“the fact that they don't support brave, for example, and here is the confirmation. Our list of supported web browsers for the 2021 2022 school year, includes what I was saying. Uhh uhh and it doesn't include brave, of course, it's not one of the biggest ones.” Nikki (35:55)
   
-Making the learning more fun in almost like a game-like way where you get gratification after completing a lesson etc.
+#### Making the learning more fun in almost like a game-like way where you get gratification after completing a lesson etc.
 
-  “It can make it a little bit more fun. I guess. instead of it just being like black and white text.” Nikki (37:48)
+>“It can make it a little bit more fun. I guess. instead of it just being like black and white text.” Nikki (37:48)
   
-  “It it's just knowing how to trigger certain neural receptors in your brain so that you get that gratification.” Nikki (43:45)
+>“It it's just knowing how to trigger certain neural receptors in your brain so that you get that gratification.” Nikki (43:45)
   
 ## Reflection
 
