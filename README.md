@@ -54,7 +54,7 @@ I collected data via a video recording on Zoom where the participant shared thei
 
 #### Interview/Observation Video Recording: [here](https://youtu.be/lefNzTOUTCw)
 
-#### Interview/Observation Transcript: [here](https://otter.ai/u/0Md-tboIk9cYZ3HqTOwC4HbrBXM)
+#### Interview/Observation Transcript: [otter.ai](https://otter.ai/u/0Md-tboIk9cYZ3HqTOwC4HbrBXM)/ [google doc](https://docs.google.com/document/d/142MAnBB_q71Fr_3j3mYIJ2x_ui1M-VR3eC7VDI3YZfA/edit?usp=sharing)
 
 ### Insights from the interview
 
